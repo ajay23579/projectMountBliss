@@ -1,0 +1,13 @@
+
+git init
+%% initialization garna jko lagi %%
+git add .
+%% git ko file track garna ko lagi %%
+git commit  -m "commit"
+%% git commit garna ko lagi %%
+git  status
+%% git ko status herna ko  lagi %%
+git checkout dev
+%% purano branch ma jana ko lagi %%
+git checkout -b [new-branch-name]
+%% naya branch add garna ko lagi %%
