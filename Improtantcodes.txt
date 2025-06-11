@@ -11,3 +11,7 @@ git checkout dev
 %% purano branch ma jana ko lagi %%
 git checkout -b [new-branch-name]
 %% naya branch add garna ko lagi %%
+
+
+file haru aafno ma lerauna ko lagi
+git pull origin dev
